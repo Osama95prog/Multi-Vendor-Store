@@ -1,7 +1,7 @@
 # Multi-Vendor-Store
 This is a multi-vendor store application built with Laravel 9. It allows vendors to easily list and manage their products and customers to enjoy a wide selection of items.
 
-Key Features:
+# Key Features:
 
 Multi-vendor functionality: Vendors can register, manage products.
 Seamless shopping cart and checkout: Customers can easily add items to their cart.
@@ -11,14 +11,8 @@ prepared API's for Vue or any front devs.
 Robust admin panel: Administrators can manage vendors, products, and system settings.
 Best practise was my goal as I used observes batterns, created new facades, services, scopes and filters and much more.
 
-Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/multi-vendor-store
-Install dependencies: [instructions based on your project]
-Set up the database: [instructions based on your project]
-Run the application: [instructions based on your project]
-
-Built With
+# Built With:
 PHP
 Laravel
 MySql
@@ -28,10 +22,10 @@ JavaScript
 Css3
 Html5
 
-Getting Started
+# Getting Started:
 To get a local copy up and running follow these simple steps.
 
-Prerequisites
+# Prerequisites
 install php 8 or above
 install mysql
 install local server
