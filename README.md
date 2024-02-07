@@ -13,28 +13,28 @@ Best practise was my goal as I used observes batterns, created new facades, serv
 
 
 # Built With:
-PHP
-Laravel
-MySql
-Ajax
-Composer
-JavaScript
-Css3
-Html5
+* PHP
+* Laravel
+* MySql
+* Ajax
+* Composer
+* JavaScript
+* Css3
+* Html5
 
 # Getting Started:
 To get a local copy up and running follow these simple steps.
 
-# Prerequisites
-install php 8 or above
-install mysql
-install local server
-Or: XAMPP is good choice if you are a biginner for the above prerequisites.
-install composer
-Clone the repo
-    git clone https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel.git
+## Prerequisites
+* install php 8 or above
+* install mysql
+* install local server
+* Or: XAMPP is good choice if you are a biginner for the above prerequisites.
+* install composer
+* Clone the repo
+    git clone https://github.com/Osama95prog/Multi-Vendor-Store.git
 
-Make your own copy of the .env file
+* Make your own copy of the .env file
     cp .env.example .env
  
     DB_DATABASE= your db name here
