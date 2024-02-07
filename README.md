@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps.
 * install php 8 or above
 * install mysql
 * install local server
-* Or: XAMPP is good choice if you are a biginner for the above prerequisites.
+* Or: XAMPP is good choice if you are a beginner for the above prerequisites.
 * install composer
 * Clone the repo
     git clone https://github.com/Osama95prog/Multi-Vendor-Store.git
